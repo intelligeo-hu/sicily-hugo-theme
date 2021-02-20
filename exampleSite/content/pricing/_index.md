@@ -4,9 +4,9 @@ subtitle: ''
 description: This is meta description
 intro:
   name: Alapdíj
-  price: 50.000 Ft + Áfa
-  price_per: Évente
-  info: ''
+  price: 50.000 Ft + 8 Ft / m
+  price_per: Éves díj
+  info: "+ 27% Áfa"
   services:
   - Adatintegráció
   - Publikáció
